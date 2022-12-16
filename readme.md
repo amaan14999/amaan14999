@@ -17,7 +17,9 @@
 - ⚡ Fun fact: I use tabs over spaces  
   
 
-<br/>  
+<br/>
+
+![snake gif](https://github.com/amaan14999/amaan14999/blob/output/github-contribution-grid-snake.gif)
 
 
 ## 💻 My Skill Set  
