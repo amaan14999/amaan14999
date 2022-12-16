@@ -20,7 +20,7 @@
 <br/>  
 
 
-## My Skill Set 💻 
+## 💻 My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
@@ -71,7 +71,7 @@
 <br/>  
 
 
-## Connect with me 🌐
+## 🌐 Connect with me 
 <div align="center">
 <a href="https://github.com/amaan14999" target="_blank">
 <img src=https://img.shields.io/badge/-GITHUB-blueviolet?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
