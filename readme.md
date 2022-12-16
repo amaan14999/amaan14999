@@ -89,6 +89,6 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=amaan14999&show_icons=true&count_private=true&hide_border=true" style="center" />
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=amaan14999&show_icons=true&count_private=true&hide_border=true" style="left" />
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaan14999&hide_border=true" style="right" /> -->
 <br />
