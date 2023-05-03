@@ -97,9 +97,10 @@
 </a>  
 </div>
 
-<p align="left">
+<!-- Profile views -->
+<!-- <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=amaan14999"
     alt="amaan14999"
   />
-</p>
+</p> -->
