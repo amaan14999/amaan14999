@@ -9,7 +9,7 @@
 
 ### <div align="center">May the bits be with you.</div>
 
-- 🔭 I’m currently working on an Online MarkDown Editor
+- 🔭 I’m currently working on a WebRTC based conferencing platform
 
 - 🌱 I’m currently learning Web Development
 
