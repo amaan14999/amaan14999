@@ -9,9 +9,9 @@
 
 ### <div align="center">May the bits be with you.</div>
 
-- 🔭 I’m currently working on a WebRTC based conferencing platform and learning ReactJs
+- 🔭 I’m currently working on a WebRTC based conferencing platform
 
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Web Development, specifically, ReactJs
 
 - ⚡ Fun fact: I use tabs over spaces
 
