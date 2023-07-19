@@ -69,13 +69,9 @@
 <br /> -->
 
 # 📊 GitHub Stats:
-<table>
- <tr>
-  <td>![](https://github-readme-stats.vercel.app/api?username=amaan14999&theme=dark&hide_border=true&include_all_commits=true&count_private=true)</td>
-  <td>![](https://github-readme-streak-stats.herokuapp.com/?user=amaan14999&theme=dark&hide_border=true)</td>
-  <td>![](https://github-readme-stats.vercel.app/api/top-langs/?username=amaan14999&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)</td>
- </tr>
-</table>
+![](https://github-readme-stats.vercel.app/api?username=amaan14999&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=amaan14999&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amaan14999&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 
