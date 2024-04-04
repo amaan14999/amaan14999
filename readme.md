@@ -1,8 +1,3 @@
-<!-- <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>
- -->
-
 ![greetings](https://user-images.githubusercontent.com/73187712/208087134-27c9c64d-1fed-483d-b2e7-9d6f1cd41fe3.gif)
 
 ### <div align="center">I'm Amaan, a Fullstack developer 👨‍💻</div>
@@ -16,8 +11,6 @@
 - ⚡ Fun fact: I use tabs over spaces
 
 <br/>
-
-<!-- ![snake gif](https://github.com/amaan14999/amaan14999/blob/output/github-contribution-grid-snake.gif) -->
 
 ## 💻 My Skill Set
 
@@ -59,23 +52,15 @@
 </table>
 
 <br/>  
-<!-- <br/>   -->
 
-<!-- ## Github Stats
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=amaan14999&show_icons=true&count_private=true&hide_border=true" style="left" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaan14999&hide_border=true" style="right" />
-<br /> -->
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=amaan14999&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=amaan14999&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amaan14999&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=amaan14999&theme=onedark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=amaan14999&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amaan14999&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 
-<!-- ## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=amaan14999&theme=onedark&no-frame=true&no-bg=true&margin-w=6) -->
 
 ## 🌐 Connect with me
 
@@ -90,11 +75,3 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>
-
-<!-- Profile views -->
-<!-- <p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=amaan14999"
-    alt="amaan14999"
-  />
-</p> -->
