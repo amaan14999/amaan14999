@@ -4,9 +4,9 @@
 
 ### <div align="center">May the bits be with you.</div>
 
-- 🔭 I’m currently working at HappyFox Technologies as a fullstack developer
+- 🔭 I’m currently working at Thoughtworks Technologies as a Software developer
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C#
 
 - ⚡ Fun fact: I use tabs over spaces
 
