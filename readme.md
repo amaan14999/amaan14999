@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working at Thoughtworks Technologies as a Software developer
 
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning AI/LLM/RAG
 
 - ⚡ Fun fact: I use tabs over spaces
 
